@@ -8,7 +8,7 @@ public class ListenerTest implements ITestListener{
 
 	public void onTestStart(ITestResult result) {
 		System.out.println("Test Started");
-		//add
+	
 	}
 
 	public void onTestSuccess(ITestResult result) {
